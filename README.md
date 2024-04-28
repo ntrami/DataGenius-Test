@@ -1,9 +1,8 @@
 # DataGenius-Test
 Test Case Study for ML Engineer: Dr. Thêm Official Store on Shopee
-<br> +  **_Objective_:** Build a machine learning model to analyze the sales data of Dr. Thêm Official Store on Shopee, using data collected over three weeks. The model should address issues such as small dataset sizes, discontinuous data points, and limited data fields.
 <br> + **_Data Description_:** Sales data for over a three-week period. The data may have gaps in time or missing information, and will be limited in the number of attributes available.
-<br> **_Requirements:_**
-Develop a model that predicts the number of products sold in the upcoming periods.
+<br> + **_Requirements:_**
+Develop a model that predicts the number of products sold in the upcoming periods. The model should address issues such as small dataset sizes, discontinuous data points, and limited data fields.
 
 <be> Proposed Models to Compare and Evaluate:
 ![Training_Model](https://github.com/ntrami/DataGenius-Test/blob/main/model.png)

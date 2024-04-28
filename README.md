@@ -5,5 +5,8 @@ Test Case Study for ML Engineer: Dr. Thêm Official Store on Shopee
 <br> **_Requirements:_**
 Develop a model that predicts the number of products sold in the upcoming periods.
 Focus on a thorough understanding of the algorithm you choose to implement. A basic model that is well understood and well explained is preferable.
+
+<be> Proposed Models:
+![Training_Model](https://github.com/ntrami/DataGenius-Test/blob/main/model.png)
 <br><br> **_My Presentation:_**
 https://drive.google.com/drive/folders/1vWlnkaO0wGNLyAqgFRpxUeOAdBQ1sofx?usp=sharing

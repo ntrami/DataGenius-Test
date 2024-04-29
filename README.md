@@ -6,5 +6,4 @@ Develop a model that predicts the number of products sold in the upcoming period
 
 <be> Proposed Models to Compare and Evaluate:
 ![Training_Model](https://github.com/ntrami/DataGenius-Test/blob/main/model.png)
-<br><br> **_My Presentation:_**
-https://drive.google.com/drive/folders/1vWlnkaO0wGNLyAqgFRpxUeOAdBQ1sofx?usp=sharing
+### **_My Presentation:_** https://youtu.be/7uuVuPsv8n0

@@ -1,4 +1,4 @@
-# DataGenius-Test
+## DataGenius-Test
 Test Case Study for ML Engineer: Dr. Thêm Official Store on Shopee
 <br> + **_Data Description_:** Sales data for over a three-week period. The data may have gaps in time or missing information, and will be limited in the number of attributes available.
 <br> + **_Requirements:_**
@@ -6,4 +6,4 @@ Develop a model that predicts the number of products sold in the upcoming period
 
 <be> Proposed Models to Compare and Evaluate:
 ![Training_Model](https://github.com/ntrami/DataGenius-Test/blob/main/model.png)
-### **_My Presentation:_** https://youtu.be/7uuVuPsv8n0
+#### **_My Presentation:_** https://youtu.be/7uuVuPsv8n0
